@@ -1,2 +1,4 @@
-# CtCI_LeetCode_Python
-## WIS: Selected interview questions from CtCI and LeetCode grouped by topics
+# Algorithms and Interview Questions
+## Work In Progress
+data structures and algorithms in Python + selected interview questions from CtCI and LeetCode
+
