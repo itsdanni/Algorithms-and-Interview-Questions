@@ -16,17 +16,8 @@ def pre_order_traversal(root):
 
 
 
-
-
-
-
-
-
-
-
-
 if __name__ == "__main__":
     t = make_balanced_bst([2, 3, 5, 7, 8, 9, 12])
-    in_order_traversal(t)
+    pre_order_traversal(t)
 
 
